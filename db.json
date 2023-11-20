@@ -2,11 +2,9 @@
   "login": {
     "code": 200,
     "message": "success",
-    "name": "Test Name",
-    "email": "test@gmail.com"
-  },
-  "register": {
-    "code": 201,
-    "message": "created"
+    "session": {
+      "name": "Test Name",
+      "email": "test@gmail.com"
+    }
   }
 }
