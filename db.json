@@ -1,10 +1,8 @@
 {
-  "api": {
-    "login": {
-      "code": 200,
-      "message": "success",
-      "name": "Test Name",
-      "email": "test@gmail.com"
-    }
+  "login": {
+    "code": 200,
+    "message": "success",
+    "name": "Test Name",
+    "email": "test@gmail.com"
   }
 }
