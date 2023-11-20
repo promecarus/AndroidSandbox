@@ -4,5 +4,9 @@
     "message": "success",
     "name": "Test Name",
     "email": "test@gmail.com"
+  },
+  "register": {
+    "code": 201,
+    "message": "created"
   }
 }
